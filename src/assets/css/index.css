@@ -1,0 +1,48 @@
+body {
+  font-family: PingFangSC-Light, PingFang SC;
+}
+.small-btn {
+  cursor: pointer;
+  margin-left: 59px;
+  /* margin-top: 24px; */
+  box-sizing: border-box;
+  margin-top: 35px;
+  width: 135px;
+  height: 40px;
+  line-height: 40px;
+  border: 1px solid #50c19a;
+  text-align: center;
+}
+.small-btn span {
+  display: inline-block;
+  width: 67px;
+  height: 22px;
+  line-height: 22px;
+  font-size: 16px;
+  font-weight: 500;
+  color: #50c19a;
+}
+.card-btn {
+  position: absolute;
+  left: 108px;
+  top: 345px;
+  width: 154px;
+  height: 52px;
+  line-height: 52px;
+  text-align: center;
+  border: 1px solid #50c19a;
+  cursor: pointer;
+}
+.card-btn a {
+  width: 67px;
+  height: 22px;
+  font-size: 16px;
+  font-weight: 500;
+  color: #50c19a;
+  line-height: 28px;
+  text-decoration: none;
+}
+.el-icon-right {
+  color: #50c19a;
+  margin-left: 10px;
+}
